@@ -35,6 +35,14 @@ La chanteuse rihanna sort un nouvel album. Elle vous contact pour gérer toute l
 - Existant
 - Suivi / Résultats => quelle est l'attente
 
+### 2. Planification
+
+- Quelles sont les tâches ?
+- Quelle est la durée de chaque tâche ? = **Estimation** !
+- Qui fait quoi ? = **Ressourcees humaines**
+- Gestion de l'ordonnancement des tâches + regroupement pour faciliter la gestion = **Séquençage** !
+- (Comptes) Rendus réguliers = **Jalons**
+
 
 
 
