@@ -26,5 +26,15 @@ La chanteuse rihanna sort un nouvel album. Elle vous contact pour gérer toute l
 
 ### 1. Etablir un cahier des charges
 
+- Contexte
+- Objectifs
+- Positionnement
+- Contraintes
+- Budget
+- Temps
+- Existant
+- Suivi / Résultats => quelle est l'attente
+
+
 
 
