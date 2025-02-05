@@ -46,7 +46,7 @@ La chanteuse rihanna sort un nouvel album. Elle vous contact pour gérer toute l
   - Trouver moi des vrais profils avec les bonnes compétences pour chaque "type" de freelance dont vous avez besoin
 
 - (Comptes) Rendus réguliers = **Jalons**
-- Gestion du risque = RACI
+- Gestion du risque = RACI (https://pyx4.com/wp-content/uploads/2023/05/Vraisemblance-6.png)
   - Pour chaque tâche (5 tâche maxi), gérer les risques auxquels vous pensez
   - Vraissemblance (1 à 4)
   - Gravite (1 à 4)
