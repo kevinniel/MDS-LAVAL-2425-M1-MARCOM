@@ -37,9 +37,11 @@ La chanteuse rihanna sort un nouvel album. Elle vous contact pour gérer toute l
 
 ### 2. Planification
 
-- Quelles sont les tâches ?
-- Quelle est la durée de chaque tâche ? = **Estimation** !
-- Qui fait quoi ? = **Ressourcees humaines**
+- Quelles sont les tâches ? (40-50)
+- Quelle est la durée de chaque tâche ? = **Estimation** ! => à la main !
+
+ATTENDRE
+- Qui fait quoi ? = **Ressources humaines**
 - Gestion de l'ordonnancement des tâches + regroupement pour faciliter la gestion = **Séquençage** !
 - (Comptes) Rendus réguliers = **Jalons**
 
