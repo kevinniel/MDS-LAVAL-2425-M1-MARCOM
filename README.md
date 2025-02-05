@@ -45,8 +45,11 @@ La chanteuse rihanna sort un nouvel album. Elle vous contact pour gérer toute l
   - Combien ? Lesquels ?
   - Trouver moi des vrais profils avec les bonnes compétences pour chaque "type" de freelance dont vous avez besoin
 
-ATTENDRE
 - (Comptes) Rendus réguliers = **Jalons**
+- Gestion du risque = RACI
+  - Pour chaque tâche (5 tâche maxi), gérer les risques auxquels vous pensez
+  - Vraissemblance (1 à 4)
+  - Gravite (1 à 4)
 
 
 
