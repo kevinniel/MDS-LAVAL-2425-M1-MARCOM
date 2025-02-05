@@ -39,10 +39,13 @@ La chanteuse rihanna sort un nouvel album. Elle vous contact pour gérer toute l
 
 - Quelles sont les tâches ? (40-50)
 - Quelle est la durée de chaque tâche ? = **Estimation** ! => à la main !
+- Gestion de l'ordonnancement des tâches + regroupement pour faciliter la gestion = **Séquençage** !
+- Qui fait quoi ? = **Ressources humaines**
+  - Freelances
+  - Combien ? Lesquels ?
+  - Trouver moi des vrais profils avec les bonnes compétences pour chaque "type" de freelance dont vous avez besoin
 
 ATTENDRE
-- Qui fait quoi ? = **Ressources humaines**
-- Gestion de l'ordonnancement des tâches + regroupement pour faciliter la gestion = **Séquençage** !
 - (Comptes) Rendus réguliers = **Jalons**
 
 
