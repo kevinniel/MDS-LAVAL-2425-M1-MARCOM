@@ -44,13 +44,15 @@ La chanteuse rihanna sort un nouvel album. Elle vous contact pour gérer toute l
   - Freelances
   - Combien ? Lesquels ?
   - Trouver moi des vrais profils avec les bonnes compétences pour chaque "type" de freelance dont vous avez besoin
-
 - (Comptes) Rendus réguliers = **Jalons**
 - Gestion du risque = RACI (https://pyx4.com/wp-content/uploads/2023/05/Vraisemblance-6.png)
   - Pour chaque tâche (5 tâche maxi), gérer les risques auxquels vous pensez
   - Vraissemblance (1 à 4)
   - Gravite (1 à 4)
+- Parties prenantes
+- Estimation des coûts => déjà fait sur Malt
+- Définissez un budget prévisionnel
 
-
+Livraison au format PDF de votre taf (1 seul fichier) dans le dossier de votre groupe Teams avant 17h ! (s'il manque les 3 derniers points on les fera la prochaine fois !)
 
 
