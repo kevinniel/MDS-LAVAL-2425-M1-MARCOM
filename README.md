@@ -22,10 +22,9 @@ La chanteuse rihanna sort un nouvel album. Elle vous contact pour gérer toute l
   - Oryane
   - Yaelle
 
-
 ## Travaux à réaliser
 
-
+### 1. Etablir un cahier des charges
 
 
 
