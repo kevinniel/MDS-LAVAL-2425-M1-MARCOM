@@ -1,6 +1,6 @@
 # PROJET
 
-La chanteuse rihanna sort un nouvel album. Elle vous contact pour gérer toute la partie market / com de celui-ci.
+La chanteuse Rihanna sort un nouvel album. Elle vous contacte pour gérer toute la partie marketing et communication de celui-ci.
 
 ## Organisation
 
