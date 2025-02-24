@@ -53,6 +53,14 @@ La chanteuse Rihanna sort un nouvel album. Elle vous contacte pour gérer toute 
 - Estimation des coûts => déjà fait sur Malt
 - Définissez un budget prévisionnel
 
-Livraison au format PDF de votre taf (1 seul fichier) dans le dossier de votre groupe Teams avant 17h ! (s'il manque les 3 derniers points on les fera la prochaine fois !)
+Point intermédiaire : Livraison au format PDF de votre taf (1 seul fichier) dans le dossier de votre groupe Teams avant 17h ! (s'il manque les 3 derniers points on les fera la prochaine fois !)
 
+### 3. Suivi de projet
 
+- Définir vos KPI pour réaliser un suivi dans le temps
+- Rapport d'avancement (= Reporting)
+  - KPI
+  - Budget
+  - Planning initial vs Planning réel
+- Communiquer sur l'avancement -> quels moyens alez-vous mettre en oeuvre ?
+- Faire un bilan / Adapter les besoins / faire évoluer le projet => ne rien faire
