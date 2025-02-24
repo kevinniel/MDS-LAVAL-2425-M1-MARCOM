@@ -72,6 +72,7 @@ Point intermédiaire : Livraison au format PDF de votre taf (1 seul fichier) dan
 - Toujours s'assurer que **les conseils et risques** sont bien traçables auprès du client.
 - Retour d'expérience / Feedback => guidelines (quel formulaire, quelles questions, à qui, pourquoi ? - sous forme de tableau)
 
+Point intermédiaire : Livraison au format PDF de votre taf (1 seul fichier) dans le dossier de votre groupe Teams avant 17h ! (s'il manque les 3 derniers points on les fera la prochaine fois !)
 
 
 
