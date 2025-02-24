@@ -68,7 +68,7 @@ Point intermédiaire : Livraison au format PDF de votre taf (1 seul fichier) dan
 ### 4. Cloture du projet
 
 - **S'assurer qu'on n'a rien oublier** : Vérifier la conformité des livrables par rapport à ce qui se trouve dans le cahier des charges
-- Etablir un **PV de livraison** qui recense tous les éléments livrés et qui doit être signé par le client
+- Etablir un **PV de livraison (recettage / recette)** qui recense tous les éléments livrés et qui doit être signé par le client
 - Toujours s'assurer que **les conseils et risques** sont bien traçables auprès du client.
 - Retour d'expérience / Feedback => guidelines (quel formulaire, quelles questions, à qui, pourquoi ? - sous forme de tableau)
 
