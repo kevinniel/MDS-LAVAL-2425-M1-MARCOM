@@ -58,7 +58,7 @@ Point intermédiaire : Livraison au format PDF de votre taf (1 seul fichier) dan
 ### 3. Suivi de projet
 
 - Définir vos KPI pour réaliser un suivi dans le temps
-- Rapport d'avancement (= Reporting)
+- Rapport d'avancement (= Reporting -> https://asana.com/fr/resources/how-project-status-reports)
   - KPI
   - Budget
   - Planning initial vs Planning réel
